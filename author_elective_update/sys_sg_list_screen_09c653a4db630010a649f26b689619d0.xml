@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>View my open NeedIt records</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Address-Book">cdc653a4db630010a649f26b689619cb</icon>
+        <name>My Open NeedIt Requests2</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 15:33:30</sys_created_on>
+        <sys_id>09c653a4db630010a649f26b689619d0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My Open NeedIt Requests2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_list_screen_09c653a4db630010a649f26b689619d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 22:21:26</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=09c653a4db630010a649f26b689619d0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a043b92bdb7e97000e785d00cf961987</instance_id>
+        <instance_name>dev62601</instance_name>
+        <name>sys_sg_list_screen_09c653a4db630010a649f26b689619d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>View my open NeedIt records</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hide_filters>false</hide_filters><icon display_value="icon-Address-Book">cdc653a4db630010a649f26b689619cb</icon><name>My Open NeedIt Requests2</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-11 15:33:30</sys_created_on><sys_id>09c653a4db630010a649f26b689619d0</sys_id><sys_mod_count>2</sys_mod_count><sys_name>My Open NeedIt Requests2</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_list_screen_09c653a4db630010a649f26b689619d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 22:21:26</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=09c653a4db630010a649f26b689619d0"/></record_update>]]></payload>
+        <payload_hash>-1130731607</payload_hash>
+        <record_name>My Open NeedIt Requests2</record_name>
+        <reverted_from/>
+        <source>642d483edbd34010a649f26b68961939</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 22:21:26</sys_created_on>
+        <sys_id>a5a0413ddb001010a649f26b689619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1715be240a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 22:21:26</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>21a0413d64001010831b83e94620bed7</update_guid>
+        <update_guid_history>21a0413d64001010831b83e94620bed7:-1130731607,c5c653a45d630010e1d1f552c80be1d1:-498819991</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 22:23:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>01b06f95db1e4c04800688ad67098f04</sys_id>
+        <sys_metadata>09c653a4db630010a649f26b689619d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Open NeedIt Requests2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_09c653a4db630010a649f26b689619d0</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_09c653a4db630010a649f26b689619d0">a5a0413ddb001010a649f26b689619d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 22:23:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
